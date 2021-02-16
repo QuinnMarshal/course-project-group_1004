@@ -18,7 +18,7 @@ The dataset is provided by the US Census Bureau, and is used in the book, “Mac
 ## Team Members
 
 - Sarvagya Pandey: 3rd Year COSC Major - I enjoy coding!
-- Person 2: one sentence about you!
+- Emily Mayzes-Kotulla: 3rd year psychology major - my favourite colour is green!
 - Quinn Marshall: 3rd year Computer Science Major.
 
 ## References

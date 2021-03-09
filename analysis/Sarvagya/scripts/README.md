@@ -1,0 +1,1 @@
+This folder stores all the script files that contain useful functions that are used throughtout our data analysis.

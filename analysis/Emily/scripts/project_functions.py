@@ -1,3 +1,9 @@
+#!/usr/bin/env python
+# coding: utf-8
+
+# In[1]:
+
+
 import pandas as pd
 import numpy as np
 
@@ -50,3 +56,10 @@ def check_weight_class(BMI):
             
     
     return weight_class_list
+
+
+# In[ ]:
+
+
+
+

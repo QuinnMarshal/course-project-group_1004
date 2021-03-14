@@ -1,5 +1,5 @@
 [![Work in Repl.it](https://classroom.github.com/assets/work-in-replit-14baed9a392b3a25080506f3b7b6d57f295ec2978f6f33ec97e36a161684cbe9.svg)](https://classroom.github.com/online_ide?assignment_repo_id=361640&assignment_repo_type=GroupAssignmentRepo)
-# Group 1004 - Medical Costs - The Price We Pay For Our Health
+# Group 1004 - Medical Costs - **The Price We Pay For Our Health**
 
 - Your title can change over time.
 
@@ -17,14 +17,14 @@ The dataset is provided by the US Census Bureau, and is used in the book, “Mac
 
 ## Team Members
 
-- Sarvagya Pandey: 3rd Year COSC Major - I enjoy coding!
-- Emily Mayzes-Kotulla: 3rd year psychology major - my favourite colour is green!
-- Quinn Marshall: 3rd year Computer Science Major.
+- **Sarvagya Pandey: 3rd Year COSC Major - *I enjoy coding!***
+- **Emily Mayzes-Kotulla: 3rd year psychology major - *my favourite colour is green!***
+- **Quinn Marshall: *3rd year Computer Science Major.***
 
 ## References
 
-https://gist.github.com/meperezcuello/82a9f1c1c473d6585e750ad2e3c05a41
-https://www.healthsystemtracker.org/chart-collection/u-s-spending-healthcare-changed-time/#item-usspendingovertime_2
-https://www.cnbc.com/2020/03/11/nearly-1-in-4-americans-are-skipping-medical-care-because-of-the-cost.html
-https://www.census.gov/topics/health/health-insurance.html
-https://opendatacommons.org/licenses/odbl/1-0/
+1. https://gist.github.com/meperezcuello/82a9f1c1c473d6585e750ad2e3c05a41
+2. https://www.healthsystemtracker.org/chart-collection/u-s-spending-healthcare-changed-time/#item-usspendingovertime_2
+3. https://www.cnbc.com/2020/03/11/nearly-1-in-4-americans-are-skipping-medical-care-because-of-the-cost.html
+4. https://www.census.gov/topics/health/health-insurance.html
+5. https://opendatacommons.org/licenses/odbl/1-0/

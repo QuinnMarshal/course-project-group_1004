@@ -1,1 +1,1 @@
-All images used in this project are placed in this directory.
+## - **All images used in this project are placed in this directory.**

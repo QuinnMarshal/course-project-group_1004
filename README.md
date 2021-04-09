@@ -30,3 +30,10 @@ The dataset is provided by the US Census Bureau, and is used in the book, “Mac
 3. https://www.cnbc.com/2020/03/11/nearly-1-in-4-americans-are-skipping-medical-care-because-of-the-cost.html
 4. https://www.census.gov/topics/health/health-insurance.html
 5. https://opendatacommons.org/licenses/odbl/1-0/
+6. https://khn.org/news/health-insurance-costs-crushing-many-people-who-dont-get-federal-subsidies/
+
+## Link to Tableau Dashboard:
+- **Sarvagya : https://us-west-2b.online.tableau.com/#/site/data301/views/Lab7_Group1004_Sarvagya_61900635/Introduction?:iid=2
+- **Emily : 
+- **Quinn : https://us-west-2b.online.tableau.com/#/site/data301/views/Lab7_group1004_Quinn_35575927/ReasearchQ1Dashboard?:iid=1
+

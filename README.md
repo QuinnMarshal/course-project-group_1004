@@ -34,6 +34,6 @@ The dataset is provided by the US Census Bureau, and is used in the book, “Mac
 
 ## Link to Tableau Dashboard:
 - **Sarvagya : https://us-west-2b.online.tableau.com/#/site/data301/views/Lab7_Group1004_Sarvagya_61900635/Introduction?:iid=2
-- **Emily : 
+- **Emily : https://us-west-2b.online.tableau.com/#/site/data301/views/Lab7_Group1004_EmilyMK/EDADashboard?:iid=3
 - **Quinn : https://us-west-2b.online.tableau.com/#/site/data301/views/Lab7_group1004_Quinn_35575927/ReasearchQ1Dashboard?:iid=1
 

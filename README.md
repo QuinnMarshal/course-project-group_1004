@@ -32,7 +32,14 @@ The dataset is provided by the US Census Bureau, and is used in the book, “Mac
 5. https://opendatacommons.org/licenses/odbl/1-0/
 6. https://khn.org/news/health-insurance-costs-crushing-many-people-who-dont-get-federal-subsidies/
 
-## Link to Tableau Dashboard:
+## Milestone 4 - Link to Tableau Dashboard (Note - Workbook file can be found in '/analysis/submitted'):
+- https://us-west-2b.online.tableau.com/#/site/data301/views/Lab7_Group1004_Sarvagya_61900635/Introduction?:iid=2
+
+## Youtube Link to Presentation Video(Note - Video file can be found in the 'videos' folder):
+- https://www.youtube.com/watch?v=5krKQqwyFDE&ab_channel=Soosi
+
+
+## Lab 7 - Link to Tableau Dashboards:
 - **Sarvagya** : https://us-west-2b.online.tableau.com/#/site/data301/views/Lab7_Group1004_Sarvagya_61900635/Introduction?:iid=2
 - **Emily** : https://us-west-2b.online.tableau.com/#/site/data301/views/Lab7_Group1004_EmilyMK/EDADashboard?:iid=10
 - **Quinn** : https://us-west-2b.online.tableau.com/#/site/data301/views/Lab7_group1004_Quinn_35575927/ReasearchQ1Dashboard?:iid=1
